@@ -17,6 +17,8 @@ img{
 	max-width:800px;
     display: block;
     margin: auto;
+    padding-bottom: 50px;
+}
 }
 
 /* 버튼 */
